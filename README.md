@@ -1,1 +1,2 @@
 This is NASA Space Apps Challenge 2024. The dataset was downloaded using JWST AWS Bulk Download Script. The program ID is 2731 i.e. NGC 3324 (Carina), calibrated bulk download script is used.
+The initial idea was to use this data to train a model for detecting regions for star formations. However, an error was given that the fits files are empty and contain null data and it was also giving some error while loading the data. So, I had to switch to a simpler idea just to get something from it but got the error mentioned earlier.
